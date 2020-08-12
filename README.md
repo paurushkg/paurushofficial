@@ -7,7 +7,8 @@
 - 🥅 Goals: Contribute more to Open Source projects
 - ⚡ Fun fact: I know nothing, I just know how to use Google!
 
-- 📫 How to reach me: ...
+### 📫 How to reach me: ...
+
 [<img align="left" alt="paurushkg.pythonanywhere.com" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
 
 
